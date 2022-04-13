@@ -1,7 +1,7 @@
 import "dart:io";
 
 void main() {
-//nomor01
+//nomor 01
 
   for (int a = 1; a <= 5; a++) {
     for (int b = 4; b >= a; b--) {
@@ -14,7 +14,7 @@ void main() {
   }
   stdout.write(" \n");
 
-  // nomor02
+  // nomor 02
 
   for (int a = 1; a <= 5; a++) {
     for (int b = 5; b >= a; b--) {
@@ -24,7 +24,7 @@ void main() {
   }
   stdout.write(" \n");
 
-  // nomor03
+  // nomor 03
 
   for (int a = 1; a <= 5; a++) {
     for (var b = 1; b < a; b++) {
@@ -36,7 +36,7 @@ void main() {
     stdout.write("\n");
   }
 
-  // nomor04
+  // nomor 04
 
   for (int a = 1; a < 3; a++) {
     for (int b = 2; b >= a; b--) {
